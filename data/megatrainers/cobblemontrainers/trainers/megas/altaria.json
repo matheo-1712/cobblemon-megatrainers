@@ -7,6 +7,11 @@
       "mega"
     ]
   },
+  "skin": {
+    "type": "texture",
+    "value": "megatrainers:textures/default.png",
+    "model": "slim"
+  },
   "messages": {
     "greeting": "trainer.megatrainers.megas.altaria.greeting",
     "start": "trainer.megatrainers.megas.altaria.start",

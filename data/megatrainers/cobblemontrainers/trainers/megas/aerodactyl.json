@@ -7,6 +7,11 @@
       "mega"
     ]
   },
+  "skin": {
+    "type": "texture",
+    "value": "megatrainers:textures/default.png",
+    "model": "slim"
+  },
   "messages": {
     "greeting": "trainer.megatrainers.megas.aerodactyl.greeting",
     "start": "trainer.megatrainers.megas.aerodactyl.start",

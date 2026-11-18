@@ -8,6 +8,11 @@
       "mega"
     ]
   },
+  "skin": {
+    "type": "texture",
+    "value": "megatrainers:textures/ice.png",
+    "model": "slim"
+  },
   "messages": {
     "greeting": "trainer.megatrainers.megas.abomasnow.greeting",
     "start": "trainer.megatrainers.megas.abomasnow.start",

@@ -8,6 +8,11 @@
       "mega"
     ]
   },
+  "skin": {
+    "type": "texture",
+    "value": "megatrainers:textures/default.png",
+    "model": "slim"
+  },
   "messages": {
     "greeting": "trainer.megatrainers.megas.ampharos.greeting",
     "start": "trainer.megatrainers.megas.ampharos.start",
